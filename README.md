@@ -1,5 +1,5 @@
 This repository is created for ISB Term 2 Group 14 MLUL2 assignment
-# Group14 CT1 MLUL2 Assignment
+# Group14  MLUL2 Assignment
 
 ## Product recommendation and Customer Behaviour Analysis for Online Retail
 
