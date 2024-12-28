@@ -1,6 +1,11 @@
 This repository is created for ISB Term 2 Group 14 MLUL2 assignment
 # Group14  MLUL2 Assignment
-
+#### Student Name 	PG ID 
+#### Anagh Mahajan	 12410067
+#### Krishna Harsha Tangirala	 12410087
+#### Pradeep Kara	 12410055
+#### Sandeep Devarde	 12410094
+ 	 
 ## Product recommendation and Customer Behaviour Analysis for Online Retail
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karapradeepkumar/Group14_MLUL2/blob/main/Group14_MLUL2.ipynb
